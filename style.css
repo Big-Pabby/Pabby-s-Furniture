@@ -410,7 +410,8 @@ textarea {
     }
 
     .home-flex {
-        grid-template-columns: 1fr;
+        display: flex;
+        flex-direction: column-reverse;
     }
 
     .footer-flex {
