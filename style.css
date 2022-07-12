@@ -89,7 +89,8 @@ nav {
 .showcase {
     background: #ca8a04;
     position: relative;
-    height: 70vh;
+    padding-top: 200px;
+    height: 600px;
 }
 
 .showcase-images {
